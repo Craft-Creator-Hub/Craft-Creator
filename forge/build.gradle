@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+}
+
+group = 'fr.en0ri4n'
+version = '1.0.0'
+
+def mcVersion = project.hasProperty("mc_version") ? project.mc_version : "1.20"
+
+dependencies {
+    implementation project(":common")
+    implementation project(":forge:forge-${mcVersion}")
+}

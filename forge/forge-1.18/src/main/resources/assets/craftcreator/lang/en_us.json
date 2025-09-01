@@ -1,0 +1,147 @@
+{
+	"itemGroup.craftcreator": "§lCraft Creator",
+
+	"key.categories.craft_creator": "Craft Creator",
+	"key.craftcreator.open_recipes_menu": "Open Recipes Menu",
+
+	"key.craftcreator.open_tutorial": "Open Tutorial",
+
+
+	"block.craftcreator.minecraft_recipe_creator": "§lMinecraft Table Recipe Creator",
+	"block.craftcreator.botania_recipe_creator": "§lBotania Recipe Creator",
+	"block.craftcreator.thermal_recipe_creator": "§lThermal Recipe Creator",
+	"block.craftcreator.create_recipe_creator": "§lCreate Recipe Creator",
+
+	"craftcreator.message.join": "Thanks for downloading §aCraft Creator §r!\nPress '%s' §rto open the recipes menu\nAnd '%s' §rto open the tutorial",
+	"craftcreator.message.join_issue": "§nYou can report any issue here",
+
+	"craftcreator.message.recipe_added": "Successfully added %s's recipe in '%s'",
+
+	"craftcreator.button.boolean.craftType.on": "Shaped",
+	"craftcreator.button.boolean.craftType.off": "Shapeless",
+
+	"craftcreator.screen.widget.simple_list.tooltip.input": "§6Input :",
+	"craftcreator.screen.widget.simple_list.tooltip.output": "§2Output :",
+
+	"craftcreator.screen.widget.dropdown_list.recipe_entry.entry.title": "Entry #%d",
+	"craftcreator.screen.widget.dropdown_list.recipe_entry.add": "Add Entry...",
+	"craftcreator.screen.widget.dropdown_list.entry.saved": "Saved!",
+	"craftcreator.screen.widget.dropdown_list.entry.reset": "Reset!",
+	"craftcreator.screen.widget.dropdown_list.entry.name": "%s ▼",
+
+	"craftcreator.screen.widget.recipe_entry_widget.tag": "Is Tag ?",
+	"craftcreator.screen.widget.recipe_entry_widget.tooltip.tag": "Check if you want a Tag instead of an Item",
+	"craftcreator.screen.widget.recipe_entry_widget.tooltip.reset": "Clear all entries",
+	"craftcreator.screen.widget.recipe_entry_widget.tooltip.save": "Save the current entry",
+	"craftcreator.screen.widget.recipe_entry_widget.tooltip.remove": "Remove the current entry",
+
+	"craftcreator.serializer.message.recipe.added": "§aRecipe %s §aby %s §asuccessfully generated",
+	"craftcreator.serializer.message.recipe.exists": "§cRecipe §4%s §cby §4%s §calready exists !",
+	"craftcreator.serializer.message.recipe.removed": "§aCustom recipe %s §asuccessfully removed",
+
+	"craftcreator.screen.crafting.info.msg": "§oCtrl + Click on slot to see more options",
+	"craftcreator.screen.crafting.info.nbt": "§oUse NBT tags for this item",
+	"craftcreator.screen.guiList.reset": "§cReset Tag",
+
+	"craftcreator.container.minecraft.furnace.fuel": "§cFire Egg §r§7§o(don't ask why)",
+
+	"craftcreator.screen.minecraft_recipe_creator_screen.field.experience": "Exp. :",
+	"craftcreator.screen.minecraft_recipe_creator_screen.field.cooking_time": "Time :",
+
+	"craftcreator.screen.minecraft_recipe_creator.crafting.title": "Crafting Table Recipe Creator",
+	"craftcreator.screen.minecraft_recipe_creator.stonecutting.title": "Stone Cutter Recipe Creator",
+	"craftcreator.screen.minecraft_recipe_creator.smelting.title": "Furnace Recipe Creator",
+	"craftcreator.screen.minecraft_recipe_creator.blasting.title": "Blast Furnace Recipe Creator",
+	"craftcreator.screen.minecraft_recipe_creator.smoking.title": "Smoker Recipe Creator",
+	"craftcreator.screen.minecraft_recipe_creator.campfire_cooking.title": "Campfire Recipe Creator",
+	"craftcreator.screen.minecraft_recipe_creator.smithing.title": "Smithing Recipe Creator",
+
+	"craftcreator.screen.recipe_creator.button.next": ">",
+	"craftcreator.screen.recipe_creator.button.previous": "<",
+	"craftcreator.screen.button.back": "Back",
+
+	"craftcreator.screen.tutorial.page": "Page %d/%d",
+
+	"craftcreator.screen.recipe_manager.button.remove_recipe": "Remove Recipe",
+
+	"craftcreator.screen.recipe_manager.button.modifier_manager": "Modifier Manager",
+
+	"craftcreator.screen.recipe_manager.list.added_recipes": "Added Recipes",
+	"craftcreator.screen.recipe_manager.list.modified_recipes": "Modified Recipes",
+	"craftcreator.screen.recipe_manager.list.recipes": "Recipes",
+	"craftcreator.screen.recipe_manager.button.clear_search": "X",
+
+
+	"craftcreator.serializer.recipe.descriptor.input": "§5Input",
+	"craftcreator.serializer.recipe.descriptor.output": "§9Output",
+	"craftcreator.serializer.recipe.descriptor.mod": "§6Mod",
+	"craftcreator.serializer.recipe.descriptor.type": "§cType",
+	"craftcreator.serializer.recipe.descriptor.id": "§1Id",
+
+	"craftcreator.screen.remove_manager.title": "Remove Recipe",
+	"craftcreator.screen.remove_manager.button.has_input_item": "Input Item :",
+	"craftcreator.screen.remove_manager.button.has_output_item": "Output Item :",
+	"craftcreator.screen.remove_manager.button.has_mod": "Mod Id :",
+	"craftcreator.screen.remove_manager.button.has_type": "Type :",
+	"craftcreator.screen.remove_manager.button.has_id": "Id :",
+	"craftcreator.screen.remove_manager.button.remove": "Remove Recipe",
+
+	"craftcreator.screen.recipe_creator.label.input_counter": "§6Input §7(%s§7)",
+	"craftcreator.screen.recipe_creator.label.output_counter": "§2Output §7(%s§7)",
+
+    "craftcreator.screen.recipe_creator.label.input": "§6Input",
+    "craftcreator.screen.recipe_creator.label.output": "§2Output",
+	"craftcreator.screen.recipe_creator_screen.kube_js_button": "Is KubeJS Recipe",
+
+	"craftcreator.screen.botania_recipe_creator.mana_infusion.title": "Mana Infusion Recipe Creator",
+	"craftcreator.screen.botania_recipe_creator.elven_trade.title": "Elven Trade Recipe Creator",
+	"craftcreator.screen.botania_recipe_creator.pure_daisy.title": "Pure Daisy Recipe Creator",
+	"craftcreator.screen.botania_recipe_creator.brewery.title": "Brew Recipe Creator",
+	"craftcreator.screen.botania_recipe_creator.petal_apothecary.title": "Petal Recipe Creator",
+	"craftcreator.screen.botania_recipe_creator.rune_altar.title": "Rune Recipe Creator",
+	"craftcreator.screen.botania_recipe_creator.terra_plate.title": "Terra Plate Recipe Creator",
+
+    "craftcreator.screen.botania_recipe_creator.field.mana": "Mana :",
+    "craftcreator.screen.botania_recipe_creator.field.time": "Time :",
+
+
+	"craftcreator.screen.thermal_recipe_creator.tree_extractor.title": "Tree Extractor Recipe Creator",
+	"craftcreator.screen.thermal_recipe_creator.pulverizer.title": "Pulverizer Recipe Creator",
+	"craftcreator.screen.thermal_recipe_creator.smelter.title": "Smelter Recipe Creator",
+	"craftcreator.screen.thermal_recipe_creator.insolator.title": "Insolator Recipe Creator",
+	"craftcreator.screen.thermal_recipe_creator.chiller.title": "Chiller Recipe Creator",
+	"craftcreator.screen.thermal_recipe_creator.refinery.title": "Refinery Recipe Creator",
+	"craftcreator.screen.thermal_recipe_creator.crucible.title": "Crucible Recipe Creator",
+	"craftcreator.screen.thermal_recipe_creator.press.title": "Press Recipe Creator",
+	"craftcreator.screen.thermal_recipe_creator.centrifuge.title": "Centrifuge Recipe Creator",
+	"craftcreator.screen.thermal_recipe_creator.brewer.title": "Brewer Recipe Creator",
+	"craftcreator.screen.thermal_recipe_creator.sawmill.title": "Sawmill Recipe Creator",
+	"craftcreator.screen.thermal_recipe_creator.furnace.title": "Furnace Recipe Creator",
+	"craftcreator.screen.thermal_recipe_creator.bottler.title": "Bottler Recipe Creator",
+	"craftcreator.screen.thermal_recipe_creator.pyrolyzer.title": "Pyrolyzer Recipe Creator",
+
+	"craftcreator.screen.thermal_recipe_creator.field.energy": "Energy :",
+	"craftcreator.screen.thermal_recipe_creator.field.energy.tooltip": "§aEnergy : §8The amount of energy in RF",
+	"craftcreator.screen.thermal_recipe_creator.field.mod_energy": "Mod Energy :",
+	"craftcreator.screen.thermal_recipe_creator.field.mod_energy.tooltip": "§aUse Energy Mod :\n§6Energy calculated with this coefficient and the default energy of the current machine\n §70.5 = 50% of the default energy\n §81 = 100% of the default energy\n §92 = 200% of the default energy\n\n§cCurrent Default Energy : §6%d",
+	"craftcreator.screen.thermal_recipe_creator.field.experience": "Exp. Gained :",
+	"craftcreator.screen.thermal_recipe_creator.field.experience.tooltip": "§aExperience Gained : §8The amount of experience gained",
+	"craftcreator.screen.thermal_recipe_creator.field.chances": "Luck :",
+	"craftcreator.screen.thermal_recipe_creator.field.chances.tooltip": "§aLuck :\n§6The chance of getting a bonus output\n§80.0 = §70%\n§80.5 = §750%\n§81.0 = §7100%",
+	"craftcreator.screen.thermal_recipe_creator.field.resin_amount": "Resin :",
+	"craftcreator.screen.thermal_recipe_creator.field.resin.tooltip": "§aResin (mb) : §6The amount of resin in mb",
+	"craftcreator.screen.thermal_recipe_creator.field.mod_water": "Water :",
+	"craftcreator.screen.thermal_recipe_creator.field.mod_water.tooltip": "§aWater :\n§6The amount of water calculated with this coefficient and the default water needed",
+	"craftcreator.screen.thermal_recipe_creator.field.fluid": "Fluid :",
+	"craftcreator.screen.thermal_recipe_creator.field.fluid.tooltip": "§aFluid :\n§6The fluid that will be used in the recipe\n\n§6Put here the amount of fluid in mb",
+
+	"craftcreator.screen.thermal_recipe_creator.slot.trunk": "Trunk",
+	"craftcreator.screen.thermal_recipe_creator.slot.leaves": "Leaves",
+    "craftcreator.screen.thermal_recipe_creator.slot.die": "Die",
+	"craftcreator.screen.thermal_recipe_creator.slot.cast": "Cast",
+	"craftcreator.screen.thermal_recipe_creator.slot.fluid": "Fluid",
+
+
+	"craftcreator.screen.create_recipe_creator.crushing.title": "Crushing Recipe Creator",
+	"craftcreator.screen.create_recipe_creator.cutting.title": "Cutting Recipe Creator"
+}
